@@ -16,3 +16,8 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
 - The Big Button is centered on its own line.
 - The Big Button has 24px space on the sides, and 8px on top and bottom.
+
+
+#1: "i'm a card" too big, 
+#2: Missing padding? 
+#3: align center, BIG BUTTON needs to be 'highlighted', maybe embiggen the text?

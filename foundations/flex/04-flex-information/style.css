@@ -7,9 +7,29 @@ img {
   height: 100px;
 }
 
+.top-line {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+}
+
+.plant-cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.barberry, .chili, .pepper, .saffron {
+  display: flex;
+  flex-direction: column;
+  margin: 26px;
+  width: 200px;
+  align-items: center;
+  text-align: center;
 }
 
 /* do not edit this footer */
